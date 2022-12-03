@@ -36,7 +36,4 @@ router.get('/getField/property/:propertyId/region/:regionId', getField)
 
 router.get('/getCrop', getCrop)
 
-
-
-
 module.exports = router
