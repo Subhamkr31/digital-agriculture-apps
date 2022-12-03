@@ -26,6 +26,3 @@ also accepts and returns JSON in the HTTP body
 
 
 
-
-### Models
-
